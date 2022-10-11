@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantinos Athanasopoulos , Mechanical Engineer / Software Engineer from Athens,Greece.
-- 👀 I’m interested in Python Programming , including REST APIS ,Machine Learning ,2D Games. Also interested in Mech/Eng,especially CFD 
-- 🌱 I’m currently learning containers and container manager software.
+- 👀 I’m interested in Python Programming , including REST APIS ,Machine Learning ,Data Science. Also interested in Mech/Eng,especially CFD 
+- 🌱 I’m currently learning NLP and RegEx.
 - 📫 How to reach me : "email": "k.athanasopoulos044@gmail.com" , "LinkedIn": "www.linkedin.com/in/konstantinos-athanasopoulos-4b2083187"
 
 
